@@ -1,1 +1,0 @@
-pandas\nnumpy\nscikit-learn==1.6.1\nimblearn\nmatplotlib\nseaborn\nstreamlit\njoblib\npyngrok\n
